@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func example() {
 	fmt.Println("=== Maps in Go ===")
 
 	colors := map[string]string{
